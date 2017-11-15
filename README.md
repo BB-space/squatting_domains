@@ -61,9 +61,37 @@ DNStwist: https://github.com/elceef/dnstwist
 
 + add others
 
-## Commands 
+## How to run
+
+```python
+python2 history_scan.py
+```
+
+
+## Requirements
+
+```bash
+BeautifulSoup==3.2.1
+beautifulsoup4==4.6.0
+editdistance==0.3.1
+fastavro==0.14.9
+geopy==1.11.0
+idna==2.5
+lxml==3.8.0
+python-snappy==0.5.1
+scikit-learn==0.18.1
+selenium==3.4.3
+six==1.10.0
+tldextract==2.1.0
+```
+
+## Others
 
 https://www.virustotal.com/en/url/fedfa28b317feda1399f28722016f421d2ccb9ae45bb7ac53b8aeeb628a2a595/analysis/
+
+virustotal api:
+
+https://github.com/doomedraven/VirusTotalApi
 
 ```bash
 vt --url-report --url-scan /mnt/sdb1/mobilePhishing/DnsAnalysisEngine/dnsResovle/URL.txt
