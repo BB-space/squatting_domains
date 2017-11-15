@@ -164,7 +164,7 @@ def recursively_analyze_gz_files(direcory, original_domain_tld, output_dir=None)
 
     total_sqautting_domains = list()
     for i in res:
-        if len(i)>0:
+        if len(i) > 0:
             total_sqautting_domains.extend(i)
 
     if not output_dir:
