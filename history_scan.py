@@ -48,6 +48,7 @@ def analyze_compressed_domains(args):
     compressed_gz_file = args['gz_file']
     squat_dict = args['squat_dict']
     original_domain_tld = args['original_domain']
+
     output_dir = args['output_dir']
 
     f = gzip.open(compressed_gz_file, 'rb')
@@ -118,7 +119,6 @@ def write_a_list_of_tuples_into_a_file(tp_list, filename="tps.txt"):
     print ("[Done]we finish recording the tuples")
 
 
-
 def recursive_glob(rootdir='.', suffix=''):
     return [os.path.join(looproot, filename)
             for looproot, _, filenames in os.walk(rootdir)
@@ -180,11 +180,12 @@ def recursively_analyze_gz_files(direcory, original_domain_tld, output_dir=None)
             print ("[Warn]Output dir do not exist, we use current dir")
 
     write_a_list_of_tuples_into_a_file(total_sqautting_domains, filename=f_name)
+    print ("[Stat]we write the results into a file as {}".format(f_name))
     return
 
 
 if __name__ == "__main__":
-    directory = "/home/ketian/Desktop/toad_test_dataset/20170901/"
+    directory = "/home/datashare/dns/history/20170906/"
     directory = "/home/ketian/Desktop/toad_test_dataset/test/"
     original_domain_tld = "amazon.co.jp"
-    recursively_analyze_gz_files(direcory=directory,original_domain_tld=original_domain_tld)
+    recursively_analyze_gz_files(direcory=directory, original_domain_tld=original_domain_tld, output_dir=None)

@@ -121,7 +121,7 @@ def typo_homo_bits_others_squatting(domain, squat_dic):
 
 def edit_distance_is_small_than_1(domain, original_domain):
     # a small edit-distance
-    #TODO this is the last step, if we did not find any match
+    # TODO this is the last step, if we did not find any match
     distance = editdistance.eval(domain, original_domain)
     if distance <= 1:
         return u'other'
