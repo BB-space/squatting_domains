@@ -1,6 +1,6 @@
-# activeDNS
-active DNS for mp
+# Squatting Candidates Identify
 
+Identify Squatting candidates by scanning the file
 
 ## AVRO SCHEMA PATTERN
 
