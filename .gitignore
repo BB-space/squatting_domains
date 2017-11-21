@@ -9,8 +9,5 @@
 **/*.avro
 **/*.txt
 
-#Analysis result
-**/*.out
-
 #ignore the IDE file.
 .idea/
