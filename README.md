@@ -67,6 +67,12 @@ DNStwist: https://github.com/elceef/dnstwist
 python2 history_scan.py
 ```
 
+## Subdomain filter
+
+-80 subdomains in subdomain folder
+
+-('total valid domains are', 47081)
+
 
 ## Requirements
 

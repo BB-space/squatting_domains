@@ -27,12 +27,7 @@ __email__ = 'ririhedou@gmail.com'
 
 import re
 import sys
-import time
-import argparse
-import threading
-from random import randint
 from os import path
-import json
 
 try:
     import queue

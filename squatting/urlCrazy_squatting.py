@@ -50,10 +50,12 @@ def get_domains_from_url_crazy(domain_name):
         print ("there is no existing csv from URLcrazy, we begin to generate it")
         csv_file = u'./csv_files/' + csv_file
         command = u'./squatting/urlcrazy-0.5/urlcrazy -f CSV -o ' + csv_file + u' ' + domain_name
-        process = subprocess.Popen(command,shell=True)
+        #command = u'./urlcrazy-0.5/urlcrazy -f CSV -o ' + csv_file + u' ' + domain_name
+        process = subprocess.Popen(command, shell=True)
         process.wait()
 
     data_initial = open(csv_file, "rU")
+
     #import codecs
     #data_initial = codecs.open(csv_file, "rU", "utf-8")
     reader = csv.reader((line.replace('\0', '') for line in data_initial), delimiter=",", quotechar='|')
@@ -70,6 +72,7 @@ def get_domains_from_url_crazy(domain_name):
 
             category_squatting = row[0]
             domain = row[1]
+            old_full_domain = row[1]
 
             ext = tldextract.extract(domain)
             if ext.subdomain:
@@ -80,8 +83,11 @@ def get_domains_from_url_crazy(domain_name):
             domain = domain.decode('utf-8')
             squat_dic[category_squatting].append(domain)
 
+
         rownum += 1
 
     squat_dic = purify_squatting_dic(squat_dic)
+    #squat_dic_fullname = purify_squatting_dic(squat_dic_fullname)
 
     return squat_dic
+

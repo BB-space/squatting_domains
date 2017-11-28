@@ -27,14 +27,17 @@ def test_constants_mappings():
         print ("")
     return
 
-def get_the_complete_list_of_squatting_domains(domain_name, base_domain=None):
+
+def get_the_complete_list_of_squatting_domains(domain_name_tld, base_domain=None):
     """
-    :param domain_name: e.g., facebook.com
+    :param domain_name_tld: e.g., facebook.com
     :return:
     """
-    dict_crazy = get_domains_from_url_crazy(domain_name)
+    dict_crazy = get_domains_from_url_crazy(domain_name_tld)
 
-    dict_dnsTwist = get_squatting_domains_dict_from_dnstwist(domain_name)
+    dict_dnsTwist = get_squatting_domains_dict_from_dnstwist(domain_name_tld)
+
+    #print (dict_crazy_fullname)
 
     for i in dict_dnsTwist:
         dict_crazy[i].extend(dict_dnsTwist[i])
@@ -42,7 +45,7 @@ def get_the_complete_list_of_squatting_domains(domain_name, base_domain=None):
 
 
     if base_domain is None:
-        ext = tldextract.extract(domain_name)
+        ext = tldextract.extract(domain_name_tld)
         if ext.subdomain:
             domain = ext.subdomain + u'.' + ext.domain
         else:
@@ -61,7 +64,7 @@ def get_the_complete_list_of_squatting_domains(domain_name, base_domain=None):
 
 if __name__ == "__main__":
     #test_constants_mappings()
-    test_domain = u'facebook.com'
+    test_domain = u'docs.google.com'
     d = get_the_complete_list_of_squatting_domains(test_domain, u'facebook')
     import pprint
     pprint.pprint(dict(d), indent=1)

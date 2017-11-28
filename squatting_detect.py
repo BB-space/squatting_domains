@@ -28,6 +28,7 @@ DIR_DB = 'database'
 FILE_TLD = path.join(DIR, DIR_DB, 'effective_tld_names.dat')
 DB_TLD = path.exists(FILE_TLD)
 
+import tldextract
 
 #faster than tldextract
 def __domain_tld(domain):
@@ -56,11 +57,27 @@ def __domain_tld(domain):
     return domain[0] + '.' + domain[1], domain[2]
 
 
+def _domain_tld_with_tldextract(domain):
+    ext = tldextract.extract(domain)
+
+    if ext.subdomain:
+        domain = ext.subdomain + u'.' + ext.domain
+    else:
+        domain = ext.domain
+
+    return domain, ext.suffix
+
+
 ################# FINE GRAINED MATCHING ################
+
+
 def labeling_candidiates(input_domain_tld, squat_dict, original_domain_tld):
     try:
-        domain, tld = __domain_tld(input_domain_tld)
-        original_domain, original_tld = __domain_tld(original_domain_tld)
+        #domain, tld = __domain_tld(input_domain_tld)
+        #original_domain, original_tld = __domain_tld(original_domain_tld)
+
+        domain, tld = _domain_tld_with_tldextract(input_domain_tld)
+        original_domain, original_tld = _domain_tld_with_tldextract(original_domain_tld)
 
         if wrong_tld_squatting(domain,tld,original_domain,original_tld):
             return ('wrongTLD')
@@ -75,10 +92,9 @@ def labeling_candidiates(input_domain_tld, squat_dict, original_domain_tld):
         if key:
             return key
 
-        key2 = edit_distance_is_small_than_1(domain, original_domain)
-        if key2:
-            return key2
-
+        #key2 = edit_distance_is_small_than_1(domain, original_domain)
+        #if key2:
+        #    return key2
         return False
 
     except:
@@ -113,9 +129,11 @@ def typo_homo_bits_others_squatting(domain, squat_dic):
     """
     for key in squat_dic:
         current_type = squat_dic[key]
-        for item in current_type:
-            if item == domain:
-                return key
+        if domain in current_type:
+            return key
+        #for item in current_type:
+        #    if item == domain:
+        #        return key
 
     return None
 
