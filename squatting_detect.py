@@ -69,15 +69,11 @@ def _domain_tld_with_tldextract(domain):
 
 
 ################# FINE GRAINED MATCHING ################
-
-
-def labeling_candidiates(input_domain_tld, squat_dict, original_domain_tld):
+def labeling_candidiates(input_domain_tld, squat_dict, original_domain, original_tld):
     try:
         #domain, tld = __domain_tld(input_domain_tld)
         #original_domain, original_tld = __domain_tld(original_domain_tld)
-
         domain, tld = _domain_tld_with_tldextract(input_domain_tld)
-        original_domain, original_tld = _domain_tld_with_tldextract(original_domain_tld)
 
         if wrong_tld_squatting(domain,tld,original_domain,original_tld):
             return ('wrongTLD')
