@@ -1,0 +1,1625 @@
+No handlers could be found for logger "tldextract"
+(['adp.com', 'adultdvdempire.com', 'adultdvdtalk.com', 'adultfriendfinder.com', 'adultwork.com', 'aetna.com', 'agoda.com', 'alaskaair.com', 'alibaba.com', 'alipay.com'], 20, 30)
+('[Info]domain_tld is: ', u'adp.com')
+('[Info]base_domain is: ', u'adp')
+('[Info]tld is: ', u'com')
+The analyzed domain and tld name is:
+adp com
+[Stat]TOTALLY we analyze 200 files
+[Stat]The cores we use is 100
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+('[Stat]We finish and record all results of', '/home/datashare/dns/history/20170906/')
+[Done]we finish recording the tuples
+[Stat]we write the results into a file as _home_datashare_dns_history_20170906_adp.com.out
+('[Info]domain_tld is: ', u'adultdvdempire.com')
+('[Info]base_domain is: ', u'adultdvdempire')
+('[Info]tld is: ', u'com')
+The analyzed domain and tld name is:
+adultdvdempire com
+[Stat]TOTALLY we analyze 200 files
+[Stat]The cores we use is 100
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  qname = decode_punycode(qname)
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+('[Stat]We finish and record all results of', '/home/datashare/dns/history/20170906/')
+[Done]we finish recording the tuples
+[Stat]we write the results into a file as _home_datashare_dns_history_20170906_adultdvdempire.com.out
+('[Info]domain_tld is: ', u'adultdvdtalk.com')
+('[Info]base_domain is: ', u'adultdvdtalk')
+('[Info]tld is: ', u'com')
+The analyzed domain and tld name is:
+adultdvdtalk com
+[Stat]TOTALLY we analyze 200 files
+[Stat]The cores we use is 100
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+('[Stat]We finish and record all results of', '/home/datashare/dns/history/20170906/')
+[Done]we finish recording the tuples
+[Stat]we write the results into a file as _home_datashare_dns_history_20170906_adultdvdtalk.com.out
+('[Info]domain_tld is: ', u'adultfriendfinder.com')
+('[Info]base_domain is: ', u'adultfriendfinder')
+('[Info]tld is: ', u'com')
+The analyzed domain and tld name is:
+adultfriendfinder com
+[Stat]TOTALLY we analyze 200 files
+[Stat]The cores we use is 100
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+('[Stat]We finish and record all results of', '/home/datashare/dns/history/20170906/')
+[Done]we finish recording the tuples
+[Stat]we write the results into a file as _home_datashare_dns_history_20170906_adultfriendfinder.com.out
+('[Info]domain_tld is: ', u'adultwork.com')
+('[Info]base_domain is: ', u'adultwork')
+('[Info]tld is: ', u'com')
+The analyzed domain and tld name is:
+adultwork com
+[Stat]TOTALLY we analyze 200 files
+[Stat]The cores we use is 100
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+('[Stat]We finish and record all results of', '/home/datashare/dns/history/20170906/')
+[Done]we finish recording the tuples
+[Stat]we write the results into a file as _home_datashare_dns_history_20170906_adultwork.com.out
+('[Info]domain_tld is: ', u'aetna.com')
+('[Info]base_domain is: ', u'aetna')
+('[Info]tld is: ', u'com')
+The analyzed domain and tld name is:
+aetna com
+[Stat]TOTALLY we analyze 200 files
+[Stat]The cores we use is 100
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+('[Stat]We finish and record all results of', '/home/datashare/dns/history/20170906/')
+[Done]we finish recording the tuples
+[Stat]we write the results into a file as _home_datashare_dns_history_20170906_aetna.com.out
+('[Info]domain_tld is: ', u'agoda.com')
+('[Info]base_domain is: ', u'agoda')
+('[Info]tld is: ', u'com')
+The analyzed domain and tld name is:
+agoda com
+[Stat]TOTALLY we analyze 200 files
+[Stat]The cores we use is 100
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+('[Stat]We finish and record all results of', '/home/datashare/dns/history/20170906/')
+[Done]we finish recording the tuples
+[Stat]we write the results into a file as _home_datashare_dns_history_20170906_agoda.com.out
+('[Info]domain_tld is: ', u'alaskaair.com')
+('[Info]base_domain is: ', u'alaskaair')
+('[Info]tld is: ', u'com')
+The analyzed domain and tld name is:
+alaskaair com
+[Stat]TOTALLY we analyze 200 files
+[Stat]The cores we use is 100
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
+history_scan.py:94: UnicodeWarning: can not decode punycode: unichr() arg not in range(0x10000) (narrow Python build)
+  if u'xn--' in qname:
