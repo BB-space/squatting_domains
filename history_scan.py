@@ -65,6 +65,7 @@ def analyze_compressed_domains(args):
     original_domain_tld = args['original_domain']
 
     original_domain, original_tld = _domain_tld_with_tldextract(original_domain_tld)
+
     print (original_domain,original_tld)
 
     output_dir = args['output_dir']
@@ -175,7 +176,7 @@ def recursively_analyze_gz_files(direcory, original_domain_tld, output_dir=None)
         del args
 
     n_core = multiprocessing.cpu_count()
-    n_core = 100
+    #n_core = 100
 
     print ("[Stat]The cores we use is {}".format(n_core))
 
@@ -218,6 +219,7 @@ if __name__ == "__main__":
 
     i = domains[int(_id)]
     original_domain_tld = i.decode('utf-8')
+    print (original_domain_tld)
     recursively_analyze_gz_files(direcory=directory, original_domain_tld=original_domain_tld, output_dir=None)
 
     #original_domain_tld = "docs.google.com"
